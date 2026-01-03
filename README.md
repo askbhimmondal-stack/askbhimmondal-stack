@@ -1,3 +1,7 @@
+<a href="https://gifyu.com/image/bhvYU"><img src="https://s12.gifyu.com/images/bhvYU.jpg" alt="Myself Bhim Mondal" border="0" /></a>
+
+
+
 for freelance work? do reach, [email](mailto:askbhimmondal@gmail.com) :)
 
 📊 **this week i spent my time on:**
