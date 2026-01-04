@@ -1,7 +1,6 @@
 <a href="https://gifyu.com/image/bhvYU"><img src="https://s12.gifyu.com/images/bhvYU.jpg" alt="Myself Bhim Mondal" border="0" /></a>
 
 
-
 for timepass? do reach, [email](mailto:askbhimmondal@gmail.com) :)
 
 📊 **this week i spent my time on:**
@@ -12,6 +11,7 @@ TypeScript   7 hrs 51 mins   █████████████████
 CSS          6 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.31 %
 
 Other        0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.13 %
+```
 
 
 <!--END_SECTION:waka-->
