@@ -2,7 +2,7 @@
 
 
 
-for freelance work? do reach, [email](mailto:askbhimmondal@gmail.com) :)
+for timepass? do reach, [email](mailto:askbhimmondal@gmail.com) :)
 
 📊 **this week i spent my time on:**
 <!--START_SECTION:waka-->
@@ -12,7 +12,7 @@ TypeScript   7 hrs 51 mins   █████████████████
 CSS          6 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.31 %
 
 Other        0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.13 %
-```
+
 
 <!--END_SECTION:waka-->
 
