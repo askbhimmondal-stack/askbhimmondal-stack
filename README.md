@@ -25,7 +25,7 @@ Until then, here's my favorite (totally made up) Einstein quote:
 |`M`| | | | | | | | | | |
 
 
-- 🛠 Contributing to  [ PulseRadio ](https://askbhimmondal-stack.github.io/PulseRadio/) & [ GetUnzipped ] .(https://askbhimmondal-stack.github.io/GetUnzipped/).
+- 🛠 Contributing to  [ PulseRadio ](https://askbhimmondal-stack.github.io/PulseRadio/) 
 - 🔥 Working with the [ DotHello ](https://dothello.my.canva.site/)
 
 
