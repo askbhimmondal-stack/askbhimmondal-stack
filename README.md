@@ -29,7 +29,7 @@ Until then, here's my favorite (totally made up) Einstein quote:
 - 🔥 Working with the [ DotHello ](https://dothello.my.canva.site/)
 
 
-<a href="https://gifyu.com/image/bhvYU"><img src="https://s12.gifyu.com/images/bhvYU.jpg" alt="Myself Bhim Mondal" border="0" /></a>
+a href="https://ibb.co/0jY77tpG"><img src="https://i.ibb.co/XZFQQ8fC/t-HE-PORT-FOLIO.jpg" alt="t-HE-PORT-FOLIO" border="0"></a>
 
 
 for timepass? do reach, [email](mailto:askbhimmondal@gmail.com) :)
